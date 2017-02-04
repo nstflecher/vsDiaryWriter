@@ -91,13 +91,13 @@
 		<dependency>
 			<groupId>org.eclipse</groupId>
 			<artifactId>jface</artifactId>
-			<version>3.11.1.v20160128-1644</version>
+			<version>3.12.0.v20160518-1929</version>
 		</dependency>
 
 		<dependency>
 			<groupId>org.eclipse.equinox</groupId>
 			<artifactId>common</artifactId>
-			<version>3.7.0.v20150402-1709</version>
+			<version>3.8.0.v20160509-1230</version>
 		</dependency>
 
 
@@ -115,8 +115,8 @@
 
 		<dependency>
 			<groupId>org.eclipse.core</groupId>
-			<artifactId>command</artifactId>
-			<version>3.7.0.v20150422-0725</version>
+			<artifactId>commands</artifactId>
+			<version>3.8.0.v20160316-1921</version>
 		</dependency>
 		<dependency>
 			<groupId>org.tukaani</groupId>
@@ -146,7 +146,7 @@
 		<dependency>
 			<groupId>org.eclipse.nebula</groupId>
 			<artifactId>pagination</artifactId>
-			<version>1.0.0.201608050127</version>
+			<version>1.0.0.201702021852</version>
 		</dependency>
 		<dependency>
 			<groupId>ro.fortsoft.pf4j</groupId>
